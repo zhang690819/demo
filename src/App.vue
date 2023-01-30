@@ -2,6 +2,8 @@
   <router-view></router-view>
 </template>
 
+
+
 <style lang="stylus">
     body,html
         width: 100%;
