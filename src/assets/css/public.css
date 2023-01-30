@@ -1,0 +1,15 @@
+.el-footer{
+    height: 14vw;
+    padding: 0;
+    border-top: 1px solid #f5f5f5;
+}
+.el-header{
+    padding: 0;
+}
+.scroll-none::-webkit-scrollbar {
+    display: none;
+}
+.el-message-box{
+    margin-top: 30vh;
+}
+       
