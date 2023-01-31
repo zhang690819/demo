@@ -35,7 +35,7 @@
             
         </el-main>
         <el-main v-else>
-            <el-empty description="您还未登录，请登录后查看~~">
+            <el-empty description="您还未登录，请登录后查看~  ~">
                <router-link :to="{name: 'Login'}">去登录</router-link>  
             </el-empty>
         </el-main>
