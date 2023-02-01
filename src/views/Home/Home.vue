@@ -79,7 +79,7 @@
                 list.push(...data)
                 tip.value = '上拉加载更多'
             }else{
-                tip.value = '已经到底啦~'
+                tip.value = '已经到底啦~））'
                 isMax = true
             }
         }
