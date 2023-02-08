@@ -28,7 +28,7 @@
                 </el-row>
             </div>
             <div v-else>
-                <el-empty description="购物车还没有商品，去首页看看吧~">
+                <el-empty description="购物车还没有商品，去首页看看吧~~~~~">
                     <router-link :to="{name: 'Home'}">去首页</router-link>  
                 </el-empty>
             </div>
